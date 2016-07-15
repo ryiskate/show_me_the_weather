@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    show_me_the_weather (0.1.1)
+    show_me_the_weather (0.2.0)
       rest-client
 
 GEM
